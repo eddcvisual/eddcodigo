@@ -24,11 +24,9 @@ int main(){
 		cout<<array[i]<<" ";
 	}
 	
-	cout<<"\nNumeros de forma Descendente: ";
-	for(i=4;i>=0;i--){
-		cout<<array[i]<<" ";
-	}
+	
+	
 	
 	getch();
-	return 0;
+	return 0; 
 }
