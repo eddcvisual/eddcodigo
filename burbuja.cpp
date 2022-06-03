@@ -24,7 +24,7 @@ int main(){
 		cout<<array[i]<<" ";
 	}
 	
-	
+	//Metodo Burbuja cambios realizados 
 	getch();
 	return 0; 
 }
